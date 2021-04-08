@@ -688,7 +688,7 @@ textarea {
         width: 100%;
     }
 .contact-us input, textarea {
-    max-width: 85%;
+    max-width: 80%;
 }
 textarea {
     width: 85%;
